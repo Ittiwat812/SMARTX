@@ -57,7 +57,7 @@ The machine learning model is trained using the `MLPClassifier` from `scikit-lea
 
 ## Instructor
 
-- **Dr. Somchart Fugkaew** - Adivsor.
+- **Dr. Somchart Fugkaew** - Advisor.
 
 ## License
 
