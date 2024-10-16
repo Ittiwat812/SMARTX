@@ -8,7 +8,6 @@ This project focuses on detecting and preventing Cross-Site Scripting (XSS) atta
 - **Machine Learning Model:** Employs MLPClassifier for classifying malicious scripts with high accuracy.
 - **Data Preprocessing:** Includes custom feature extraction, such as URL length, special character count, and keyword presence.
 - **Neo4j Integration:** Logs detected attacks and analysis in a Neo4j graph database for visualization.
-- **Web Application:** Built with Flask, providing a user interface for monitoring and testing the detection system.
 
 ## Prerequisites
 
