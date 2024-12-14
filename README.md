@@ -47,7 +47,7 @@ The training data used in this project consists of both legitimate and malicious
 
 ## Model Training
 
-The machine learning model is trained using the `MLPClassifier` from `scikit-learn`. The training script can be found in `Better_XSS_Detection_Model.ipynb`.
+The machine learning model is trained using the `MLPClassifier` from `scikit-learn`. The training script can be found in `SMARTX_Model.ipynb`.
 
 ## Contributors
 
