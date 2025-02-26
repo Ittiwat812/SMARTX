@@ -14,7 +14,7 @@ This project focuses on detecting and preventing Cross-Site Scripting (XSS) atta
 - Python 3.8+
 - Neo4j Database
 
-## Installation
+## Installation (For Demo)
 
 1. Clone the repository:
     ```bash
@@ -30,13 +30,18 @@ This project focuses on detecting and preventing Cross-Site Scripting (XSS) atta
     ```bash
     pip install -r requirements.txt
     ```
+4. Change to your path
 
-4. Start the Flask app:
+5. Start your neo4j and config an environment.
+
+6. Start the Flask app:
     ```bash
-    python app.py
+    python server.py
     ```
 
-5. Open your browser and go to `http://localhost:5000`.
+7. Use a live server with template.
+   
+8. Try to input something.
 
 ## Dataset
 
