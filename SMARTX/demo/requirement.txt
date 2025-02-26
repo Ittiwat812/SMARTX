@@ -1,0 +1,5 @@
+flask
+kafka-python
+neo4j
+scikit-learn
+joblib
