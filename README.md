@@ -43,6 +43,8 @@ This project focuses on detecting and preventing Cross-Site Scripting (XSS) atta
    
 8. Try to input something.
 
+# NOTE : Since, we have a batch processing we need at least 3 input (bath_size) if not you need to wait for 100 second.
+
 ## Dataset
 
 The training data used in this project consists of both legitimate and malicious samples to improve the model's accuracy in detecting XSS attacks.
