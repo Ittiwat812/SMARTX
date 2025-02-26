@@ -43,7 +43,7 @@ This project focuses on detecting and preventing Cross-Site Scripting (XSS) atta
    
 8. Try to input something.
 
-# NOTE : Since, we have a batch processing we need at least 3 input (bath_size) if not you need to wait for 100 second.
+### NOTE : Since, we have a batch processing we need at least 3 input (bath_size) if not you need to wait for 100 second.
 
 ## Dataset
 
