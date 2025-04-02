@@ -66,6 +66,14 @@ The machine learning model is trained using the `MLPClassifier` from `scikit-lea
 
 - **Dr. Somchart Fugkaew** - Advisor.
 
+## Support the Project
+
+If you find this project useful and would like to support its continued development, please consider making a donation. Your contributions help to encourage further development and improvements.
+
+You can donate via PayPal: [Donate here](https://www.paypal.me/Ittiwat812)
+
+Thank you for your support! 
+
 ## License
 
 This project is licensed under the Sirindhorn International Institute of Technology (SIIT), Thammasat University. All rights reserved.
